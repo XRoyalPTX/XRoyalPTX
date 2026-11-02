@@ -25,7 +25,7 @@
 
 ## ♟ Немного не про код
 
-Люблю **шахматы** — за ту же дисциплину, что и в разработке: видеть позицию целиком, 
+Поигрываю в **шахматы**. Они мне нравятся за ту же дисциплину, что и в разработке: видеть позицию целиком, 
 считать варианты и признавать, что иногда лучшее решение — пожертвовать фигурой ради темпа. 
 Иногда за доской это получается лучше, чем в спринте.
 
@@ -89,27 +89,5 @@ JWT-аутентификация, bcrypt, миграции Alembic, кастом
 
 ---
 
-## 📊 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XRoyalPTX&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XRoyalPTX&layout=compact&theme=radical&hide_border=true)
-
----
-
 *Открыт к предложениям по backend-разработке и AI/LLM-проектам. 
 Особенно рад проектам, где технологии помогают сохранять языки и культуру.*
-
-<!--
-**XRoyalPTX/XRoyalPTX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
